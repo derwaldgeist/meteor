@@ -119,6 +119,15 @@ Update to Mongodb driver from 3.2.7 to 3.3.5, this version is compatible with Mo
 
 Improve index support for Minimongo to enable better performance in the client for databases with thousands of documents. ([Issue #10703](https://github.com/meteor/meteor/issues/10703))
 
+## View layer support
+
+### React accounts
+- Leaders: <you?>
+- Status: -
+- PRs: -
+
+Add an officially supported accounts UI package for React. Update the Meteor tutorial to use this package instead of a Blaze wrapper.   
+
 ## Documentation
 ### Step-by-step guide
 - Leaders: <you?>
